@@ -1,0 +1,3 @@
+RESUME PLACEHOLDER — DISHA SINGH
+
+Replace this file with the final résumé PDF and update resumeUrl in data/portfolio.ts.
