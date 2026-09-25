@@ -1,4 +1,4 @@
-# DEEFOLIO: hii this is my portfolio!!
+# DEEFOLIO: hii this is my portfolio!
 
 An editorial, scroll-led portfolio for Disha Singh. It uses Next.js, TypeScript, Tailwind CSS, GSAP ScrollTrigger, and Framer Motion.
 
