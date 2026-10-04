@@ -11,6 +11,7 @@ npm run dev
 
 Open the local URL printed in the terminal.
 
+
 ## Edit the portfolio
 
 All replaceable copy, experience records, projects, contact links, résumé path, and visual asset paths live in [`data/portfolio.ts`](data/portfolio.ts).
