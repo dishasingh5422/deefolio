@@ -81,7 +81,7 @@ export const portfolio = {
       technologies: ['Python', 'FastAPI', 'Docker', 'Prometheus', 'GitHub Actions'],
       outcome: 'Health APIs, incident automation, and dashboard with 19 passing tests and 93% reported test coverage.',
       cover: '',
-      githubUrl: 'https://github.com/dishasingh5422/wft-ivr',
+      githubUrl: 'https://github.com/dishasingh5422/ServiceGuard',
     },
     {
       title: 'Kubernetes Pod Failure Prediction',
@@ -90,7 +90,7 @@ export const portfolio = {
       technologies: ['Python', 'Kubernetes', 'Docker', 'Prometheus'],
       outcome: 'Telemetry-based anomaly analysis and monitoring workflows for container health and potential failures.',
       cover: '',
-      githubUrl: 'https://github.com/dishasingh5422/wft-ivr',
+      githubUrl: 'https://github.com/dishasingh5422/K8',
     },
     {
       title: 'Banking GenAI Governance Lab · Grounded Decision Support',
@@ -99,7 +99,7 @@ export const portfolio = {
       technologies: ['FastAPI', 'React', 'DuckDB', 'RAG', 'Docker'] ,
       outcome: 'Local-first decision-support prototype with citation-grounded policy retrieval, refusal controls, human review, and 5/5 passing retrieval and safety scenarios.',
       cover: '',
-      githubUrl: 'https://github.com/dishasingh5422/wft-ivr',
+      githubUrl: 'https://github.com/dishasingh5422/banking-genai-governance-lab',
     },
   ],
   visuals: [
